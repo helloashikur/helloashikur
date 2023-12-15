@@ -1,4 +1,4 @@
-[![Md-Ashikur-Rahman-Web-Developer-Word-Press-Woo-Commerce-Expert-2.png](https://i.postimg.cc/wj17nLkz/Md-Ashikur-Rahman-Web-Developer-Word-Press-Woo-Commerce-Expert-2.png)](https://postimg.cc/bZjytGMV)
+[![Md-Ashikur-Rahman-Web-Developer.png](https://i.postimg.cc/Xv3hPcw1/Md-Ashikur-Rahman-Web-Developer.png)](https://postimg.cc/68jY2ZbC)
 # 👋Hello! I'm Ashikur Rahman
 <p>A full time web developer and Freelancer</p><p>🏠 Living Kushtia, Bangladesh </p>
 
