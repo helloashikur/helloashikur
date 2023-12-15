@@ -26,10 +26,9 @@
 
 
 ### ☕ Connect with me!
-<a href="https://www.facebook.com/ashikurofficialbd"><img src="./img/Facebook.svg"></a>
-<a href="https://www.instagram.com/ashikurofficialbd/"><img src="./img/instagram.svg"></a>
-<a href="https://www.linkedin.com/in/ashikurofficial/"><img src="./img/linkdIn.svg"></a>
-<a href="https://github.com/devashikurbd"><img src="./img/git.svg"></a>
+✅ ► <a href="https://www.facebook.com/ashikurofficialbd">Facebook</a>
+✅ ► <a href="https://www.instagram.com/ashikurofficialbd/">Instagram</a>
+✅ ► <a href="https://www.linkedin.com/in/ashikurofficial/">LinkedIn</a>
 
 ### 📧 For Business Inquiries:
 ✅ ► ashikurofficialbd@gmail.com   
