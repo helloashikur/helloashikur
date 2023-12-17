@@ -12,7 +12,8 @@
 ✅ HTML5 / CSS3 / Bootstrap / Tailwind CSS / SASS <br>
 ✅ JavaScript / jQuery / ReactJS <br>
 ✅ PHP  
-✅ WordPress   
+✅ WordPress   <br>
+✅ WooCommerce   <br>
 ✅ Photoshop / Illustrator / Figma
 
 ### 🙍‍♂️Sports / Game / Activities / Hobby:
