@@ -9,7 +9,7 @@
 
 
 ### 👨‍💻 Skills & Experience:
-✅ HTML5 / CSS3 / Bootstrap / Tailwind CSS / SASS 
+✅ HTML5 / CSS3 / Bootstrap / Tailwind CSS / SASS <br>
 ✅ JavaScript / jQuery / ReactJS
 ✅ PHP  
 ✅ WordPress   
