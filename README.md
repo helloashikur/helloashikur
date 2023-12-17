@@ -9,14 +9,11 @@
 
 
 ### 👨‍💻 Skills & Experience:
-✅ HTML5 / CSS3 / SASS / Bootstrap  
-✅ JavaScript   
+✅ HTML5 / CSS3 / Bootstrap / Tailwind CSS / SASS 
+✅ JavaScript / jQuery / ReactJS
 ✅ PHP  
 ✅ WordPress   
 ✅ Photoshop / Illustrator / Figma
-
-<img src="./img/skills.svg">
-
 
 ### 🙍‍♂️Sports / Game / Activities / Hobby:
 🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball  
