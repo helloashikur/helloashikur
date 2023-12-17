@@ -1,6 +1,6 @@
 [![Md-Ashikur-Rahman-Web-Developer.png](https://i.postimg.cc/Xv3hPcw1/Md-Ashikur-Rahman-Web-Developer.png)](https://postimg.cc/68jY2ZbC)
 # 👋Hello! I'm Ashikur Rahman
-<p>A full time Front-end Web Designer and WordPress Developer</p><p>🏠 Living Kushtia, Bangladesh </p>
+<p>A full-time Front-end Web Designer, WordPress, and WooCommerce Developer.</p> <p>🏠 Living Kushtia, Bangladesh </p>
 
 ### 👨‍🏫 About Me:
 <p>I’m a Web Developer who is passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript, and PHP.</p>
