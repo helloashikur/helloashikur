@@ -10,7 +10,7 @@
 
 ### 👨‍💻 Skills & Experience:
 ✅ HTML5 / CSS3 / Bootstrap / Tailwind CSS / SASS <br>
-✅ JavaScript / jQuery / ReactJS
+✅ JavaScript / jQuery / ReactJS <br>
 ✅ PHP  
 ✅ WordPress   
 ✅ Photoshop / Illustrator / Figma
