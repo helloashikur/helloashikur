@@ -9,11 +9,13 @@
 
 
 ### 👨‍💻 Skills & Experience:
+####Coding & Programming: 
 ✅ HTML5 / CSS3 / Bootstrap / Tailwind CSS / SASS <br>
 ✅ JavaScript / jQuery <br>
 ✅ PHP  
 ✅ WordPress   <br>
-✅ WooCommerce   <br>
+
+####Design Tool: 
 ✅ Photoshop / Illustrator / Figma
 
 ### 🙍‍♂️Sports / Game / Activities / Hobby:
