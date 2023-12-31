@@ -1,4 +1,4 @@
-[![Md-Ashikur-Rahman-Web-Developer.png](https://i.postimg.cc/W4ZfRrHb/Md-Ashikur-Rahman-Web-Developer.png)](https://postimg.cc/f3wvm3s6)
+[![Md-Ashikur-Rahman-Passionate-Web-Designer-and-Develope.png](https://i.postimg.cc/LX3R45VM/Md-Ashikur-Rahman-Passionate-Web-Designer-and-Develope.png)](https://postimg.cc/CB59mFtv)
 # 👋Hello! I'm Ashikur Rahman
 <p>👨‍💻Front-End Web Designer and WordPress Developer</p> <p>🏠 Living Kushtia, Bangladesh </p>
 
