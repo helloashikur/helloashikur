@@ -1,6 +1,6 @@
 [![Md-Ashikur-Rahman-Passionate-Web-Designer-and-Develope.png](https://i.postimg.cc/LX3R45VM/Md-Ashikur-Rahman-Passionate-Web-Designer-and-Develope.png)](https://postimg.cc/CB59mFtv)
 # 👋Hello! I'm Ashikur Rahman
-<p>👨‍💻Web Designer and Developer | WordPress, Webflow, and Front-End Expert. </p> <p>🏠 Living Kushtia, Bangladesh </p>
+<p>👨‍💻Web Designer and Developer | WordPress and Front-End Expert. </p> <p>🏠 Living Kushtia, Bangladesh </p>
 
 ### 👨‍🏫 About Me:
 <p>I’m a Web Developer who is passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include HTML, CSS, JavaScript, and PHP.</p>
@@ -9,13 +9,12 @@
 
 ### 👨‍💻 Skills & Experience:
 ✅Front End: HTML5, CSS3, SCSS, Bootstrap, JavaScript, JSON / jQuery, React, Sass <br>
-✅BACK END: PHP,  MySQL, WordPress and Webflow <br>
+✅BACK END: PHP,  MySQL, WordPress <br>
 ✅Design Tools Basic: Photoshop, Illustrator, and Figma <br>
 ✅Marketing Setup: SEO, Analytics and Conversion Tracking Setup <br>
 
 ### ✨ Service Details:
 ✔ WordPress Website Design <br>
-✔Webflow Website Design <br>
 ✔Frontend Website Design <br>
 ✔ Responsive Web Design <br>
 ✔ Website Speed Optimization <br>
