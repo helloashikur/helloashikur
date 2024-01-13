@@ -1,4 +1,4 @@
-[!(https://i.postimg.cc/Yqq8p4Kh/Ashikur-Rahman-Web-Application-Developer-1.png)](https://postimg.cc/vDk5hZms)
+[![Ashikur-Rahman-Web-Application-Developer.png](https://i.postimg.cc/ZR7QWhTp/Ashikur-Rahman-Web-Application-Developer.png)](https://postimg.cc/njm2Wg9h)
 # 👋Hello! I'm Ashikur Rahman
 <p>👨‍💻Web Application Development Practitioner</p> <p>🏠 Living Kushtia, Bangladesh </p>
 
