@@ -1,16 +1,20 @@
-[![Ashikur-Rahman-Web-Application-Developer.png](https://i.postimg.cc/ZR7QWhTp/Ashikur-Rahman-Web-Application-Developer.png)](https://postimg.cc/njm2Wg9h)
+[![Full-stack-Web-Developer-Word-Press-PHP-Laravel.png](https://i.postimg.cc/1z4xJPZ0/Full-stack-Web-Developer-Word-Press-PHP-Laravel.png)](https://postimg.cc/943NQ60z)
 # 👋Hello! I'm Ashikur Rahman
-<p>👨‍💻Web Application Development Practitioner</p> <p>🏠 Living Kushtia, Bangladesh </p>
+<p>👨‍💻Full-stack Web Development Practitioner</p> <p>🏠 Living Kushtia, Bangladesh </p>
 
 ### 👨‍🏫 About Me:
-<p>I’m a Web Developer who is passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include HTML, CSS, JavaScript, and PHP.</p>
-
-<a herf="https://ashikurofficial.com/"> For More Details Visit My Website </a>
+<p>Passionate and results-driven Full-stack Web Developer with a strong foundation in building dynamic and responsive web applications. Proficient in leveraging cutting-edge technologies to deliver high-quality solutions. Specialized in WordPress, PHP, and Laravel development.</p>
 
 ### 👨‍💻 Skills & Experience:
-✅Front End: HTML5, CSS3, SCSS, Bootstrap, JavaScript, JSON / jQuery, React, Sass <br>
-✅BACK END: PHP,  MySQL, WordPress <br>
-✅Design Tools Basic: Photoshop, Illustrator, and Figma <br>
+💡 Full-stack Development </br>
+🌐 Frontend: HTML, CSS, JavaScript, React </br>
+🖥️ Backend: PHP, Laravel </br>
+🚀 WordPress Development </br>
+🔧 Custom Theme and Plugin Development </br>
+📊 Database Design and Optimization </br>
+🔄 API Integration </br>
+🛠️ Problem Solving and Troubleshooting </br>
+✅Design Tools Basic: Photoshop, Illustrator, and Figma </br>
 
 ### 🙍‍♂️Sports / Game / Activities / Hobby:
 🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball  
@@ -18,8 +22,6 @@
 ✈️ Travelling
 
 ### ☕ Connect with me!
-✅ ► <a href="https://www.facebook.com/ashikurofficialbd">Facebook</a>
-✅ ► <a href="https://www.instagram.com/ashikurofficialbd/">Instagram</a>
 ✅ ► <a href="https://www.linkedin.com/in/ashikurofficial/">LinkedIn</a>
 
 ### 📧 For Business Inquiries:
