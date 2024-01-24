@@ -1,6 +1,5 @@
-[![Ashikur-Rahman-Fullstack-Word-Press-Developer.png](https://i.postimg.cc/PxGZQty6/Ashikur-Rahman-Fullstack-Word-Press-Developer.png)](https://postimg.cc/v1zcQwp9)
-# 👋Hello! I'm Ashikur Rahman
-<p>👨‍💻Fullstack WordPress Developer</p> <p>🏠 Living Kushtia, Bangladesh </p>
+[![1636534520604.jpg](https://i.postimg.cc/xdGxmFyb/1636534520604.jpg)](https://postimg.cc/B86B9pzq)# 👋Hello! I'm Ashikur Rahman
+<p>👨‍💻Fullstack Web Developer</p> <p>🏠 Living Kushtia, Bangladesh </p>
 
 ### 👨‍🏫 About Me:
 <p>Passionate and results-driven Full-stack Web Developer with a strong foundation in building dynamic and responsive web applications. Proficient in leveraging cutting-edge technologies to deliver high-quality solutions. Specialized in WordPress, PHP, and Laravel development.</p>
