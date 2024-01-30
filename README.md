@@ -1,19 +1,17 @@
 [![1636534520604.jpg](https://i.postimg.cc/xdGxmFyb/1636534520604.jpg)](https://postimg.cc/B86B9pzq)
 # 👋Hello! I'm Ashikur Rahman
-<p>👨‍💻Fullstack Web Developer</p> <p>🏠 Living Kushtia, Bangladesh </p>
+<p>👨‍💻Web Developer</p> <p>🏠 Living Kushtia, Bangladesh </p>
 
 ### 👨‍🏫 About Me:
-<p>Passionate and results-driven Full-stack Web Developer with a strong foundation in building dynamic and responsive web applications. Proficient in leveraging cutting-edge technologies to deliver high-quality solutions. Specialized in WordPress, PHP, and Laravel development.</p>
+<p>I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
+
+</p>
 
 ### 👨‍💻 Skills & Experience:
-💡 Full-stack Development </br>
-🌐 Frontend: HTML, CSS, JavaScript, React </br>
-🚀 WordPress Development </br>
-🖥️ Backend: PHP, Laravel </br>
-🔧 Custom Theme and Plugin Development </br>
-📊 Database Design and Optimization </br>
-🔄 API Integration </br>
-🛠️ Problem Solving and Troubleshooting </br>
+✅ HTML5 / CSS3 / SASS / Bootstrap </br>
+✅ JavaScript </br>
+✅ WordPress </br>
+✅ PHP </br> 
 ✅Design Tools Basic: Photoshop, Illustrator, and Figma </br>
 
 ### 🙍‍♂️Sports / Game / Activities / Hobby:
