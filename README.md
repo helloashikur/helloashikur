@@ -1,4 +1,4 @@
-[![Ashikur-Rahman-Website-Developer-5.png](https://i.postimg.cc/3xK0HBnQ/Ashikur-Rahman-Website-Developer-5.png)](https://postimg.cc/D8Mwr19x)
+[![Ashikur-Rahman-Full-Stack-Web-Developer.png](https://i.postimg.cc/wB1hS2jT/Ashikur-Rahman-Full-Stack-Web-Developer.png)](https://postimg.cc/t1HZ6h6L)
 # 👋Hello! I'm Ashikur Rahman
 <p>👨‍💻Web Developer </p> <p>🏠 Living Kushtia, Bangladesh </p>
 
