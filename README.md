@@ -8,6 +8,7 @@
 ### 👨‍💻My Skills:
 ✅Front End: HTML5, CSS3, SCSS, Bootstrap, JavaScript, JSON / jQuery, React, Sass <br>
 ✅BACK END: PHP, MySQL <br>
+✅CMS: WordPress <br>
 ✅Design Tools Basic: Photoshop, Illustrator, and Figma <br>
 ✅Marketing Setup: Besic SEO, Analytics and Conversion Tracking Setup <br>
 
