@@ -6,7 +6,6 @@
 <p>Passionate and results-driven "Web Developer" who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind. Over the past years, I created 50+ websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include WordPress, Shopify and Laravel Development</p>
 
 ### 👨‍💻My Skills:
-✨Skills:
 ✅Front End: HTML5, CSS3, SCSS, Bootstrap, JavaScript, JSON / jQuery, React, Sass <br>
 ✅BACK END: PHP, MySQL <br>
 ✅CMS: WordPress and Shopify <br>
