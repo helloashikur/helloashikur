@@ -1,4 +1,4 @@
-[![Ashikur-Rahman-Full-Stack-Word-Press-Developer.png](https://i.postimg.cc/MK75hptL/Ashikur-Rahman-Full-Stack-Word-Press-Developer.png)](https://postimg.cc/Wh40ZjBm)
+[![Ashikur-Rahman-Web-Developer.png](https://i.postimg.cc/T199sykj/Ashikur-Rahman-Web-Developer.png)](https://postimg.cc/QKF19MZV)
 # 👋Hello! I'm Ashikur Rahman
 <p>👨‍💻Full Stack WordPress Developer</p> <p>🏠 Living Kushtia, Bangladesh </p>
 
