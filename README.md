@@ -8,14 +8,15 @@
 ### 👨‍💻My Skills:
 ✅Front End Development: 
 - HTML5
-- CSS3 - Bootstrap, Tailwind CSS, Sass
-- JavaScript -Vanilla JS, jQuery (Library), React (Framework), Angular (Framework), Vue (Framework), Typescript (Preprocessor)
+- CSS3: Bootstrap, Tailwind CSS, Sass
+- JavaScript: Vanilla JS, jQuery (Library), React (Framework), Angular (Framework), Vue (Framework), Typescript (Preprocessor)
  <br>
 ✅BACK END Development:
 - PHP
 - Laravel
 - MySQL
   <br>
+  
 ✅CMS: WordPress <br>
 ✅Design Tools Basic: Photoshop, Illustrator, and Figma <br>
 ✅Marketing Setup: Besic SEO, Analytics and Conversion Tracking Setup <br>
