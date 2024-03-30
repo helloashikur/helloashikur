@@ -9,7 +9,7 @@
 ✅Front End Development: 
 - HTML5
 - CSS3: Bootstrap, Tailwind CSS, Sass
-- JavaScript: Vanilla JS, jQuery (Library), React (Framework), Angular (Framework), Vue (Framework), Typescript (Preprocessor)
+- JavaScript: Vanilla JS, jQuery (Library), React (Framework), Vue (Framework), Typescript (Preprocessor)
  <br>
 ✅BACK END Development:
 - PHP
