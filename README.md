@@ -1,26 +1,18 @@
-[![1-nt-L3-Dsvc-d-J5c-LGRt-Su-Ew.gif](https://i.postimg.cc/7ZVLRGBc/1-nt-L3-Dsvc-d-J5c-LGRt-Su-Ew.gif)](https://postimg.cc/LJJRYXFB)
+[![1710599738574.png](https://i.postimg.cc/CK9QWTXb/1710599738574.png)](https://postimg.cc/8FB4631C)
 
 # 👋Hello! I'm Ashikur Rahman
-<p>I'm 👨‍💻Web Developer </p> <p>🏠 Living Kushtia, Bangladesh </p>
+<p>I'm 👨‍💻Front-End Web Developer </p> <p>🏠 Living Kushtia, Bangladesh </p>
 
 ### 👨‍🏫 About Me:
-<p>Passionate and results-driven "Web Developer" who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind. Over the past years, I created 50+ websites for my clients. I pride myself on doing quality work and maintaining excellent communication. </p>
+<p>Passionate and results-driven "Front-End Web Developer" who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind. Over the past years, I created 50+ websites for my clients. I pride myself on doing quality work and maintaining excellent communication. </p>
 
 ### 👨‍💻My Skills:
 ✅Front End Development: 
 - HTML5
 - CSS3: Bootstrap, Tailwind CSS, Sass
-- JavaScript: Vanilla JS, jQuery (Library), React (Framework), Typescript (Preprocessor)
- <br>
-✅BACK END Development:
-- PHP
-- MySQL
-  <br>
-  
-✅CMS: WordPress <br>
-✅Design Tools Basic: Photoshop, Illustrator, and Figma <br>
-✅Marketing Setup: Besic SEO, Analytics and Conversion Tracking Setup <br>
+- JavaScript: Vanilla JS, jQuery (Library), React JS (Framework), Typescript (Preprocessor)
 
+✅Design Tools Basic: Photoshop, Illustrator, and Figma <br>
 ### 🙍‍♂️Sports / Game / Activities / Hobby:
 🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball  <br>
 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking  <br>
