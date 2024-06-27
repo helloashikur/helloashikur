@@ -1,4 +1,4 @@
-[![1710599738574.png](https://i.postimg.cc/CK9QWTXb/1710599738574.png)](https://postimg.cc/8FB4631C)
+[![1646907885048.gif](https://i.postimg.cc/DZdP59Tv/1646907885048.gif)](https://postimg.cc/N9FXjPFS)
 
 # 👋Hello! I'm Ashikur Rahman
 <p>I'm 👨‍💻Front-End Web Developer </p> <p>🏠 Living Kushtia, Bangladesh </p>
