@@ -1,5 +1,4 @@
-[![New-PNC-Animated-Banners-1.gif](https://i.postimg.cc/nLYTyXpt/New-PNC-Animated-Banners-1.gif)](https://postimg.cc/yJxF9YDf) 
-
+[![Ashikur-Rahman-Word-Press-Developer-1.png](https://i.postimg.cc/XvSVv7mJ/Ashikur-Rahman-Word-Press-Developer-1.png)](https://postimg.cc/TK087GRM) 
 # 👋Hello! I'm Ashikur Rahman
 <p>I'm 👨‍💻WordPress Web Developer </p> <p>🏠 Living Kushtia, Bangladesh </p>
 
