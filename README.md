@@ -23,7 +23,7 @@
 
 ✅Design Tools Basic: Photoshop, Illustrator, and Figma <br>
 ### 🙍‍♂️Sports / Game / Activities / Hobby:
-🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball  <br>
+🏏 Cricket, ⚽ Football, 🏸 Badminton  <br>
 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking  <br>
 ✈️ Travelling <br>
 
