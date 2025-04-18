@@ -28,7 +28,7 @@
 ✈️ Travelling <br>
 
 ### ☕ Connect with me!
-✅ ► <a href="https://www.linkedin.com/in/helloashikur/">LinkedIn</a>
+✅ ► <a href="https://www.linkedin.com/in/growwithashikur/">LinkedIn</a>
 
 ### 📧 For Business Inquiries:
 ✅ ► ashikurofficialbd@gmail.com   
