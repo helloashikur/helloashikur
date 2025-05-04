@@ -1,6 +1,6 @@
 
 # 👋Hello! I'm Ashikur Rahman
-<p>I'm Web Developer👨‍💻Front-end and WordPress specialist </p> <p>🏠 Living Kushtia, Bangladesh </p>
+<p>I'm 👑Web Designer & Developer 👨‍💻Front-end and WordPress specialist </p> <p>🏠 Living Kushtia, Bangladesh </p>
 
 ### 👨‍🏫 About Me:
 <p>Passionate and results-driven "Front-end and WordPress Developer" who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind. Over the past years, I created 50+ websites for my clients. I pride myself on doing quality work and maintaining excellent communication. </p>
