@@ -1,37 +1,39 @@
-[Rankfly-Digital-Best-Web-Design-SEO-and-Digital-Marketing-Agency-in-Bangladesh-3.png](https://postimg.cc/1gfTvTQx)
-# 👋Hello! I'm Ashikur Rahman
-<p>I'm 👑Web Designer & Developer 👨‍💻Front-end and WordPress specialist </p> <p>🏠 Living Kushtia, Bangladesh </p>
+[![Rankfly-Digital-Best-Web-Design-SEO-and-Digital-Marketing-Agency-in-Bangladesh-3.png](https://i.postimg.cc/ZqcS5tsq/Rankfly-Digital-Best-Web-Design-SEO-and-Digital-Marketing-Agency-in-Bangladesh-3.png)](https://postimg.cc/1gfTvTQx)
+✨ Ashikur Rahman – Web Developer
+💻 WordPress | PHP | Laravel 
+🚀 I’m Ashikur Rahman, a passionate Web Developer specializing in WordPress, PHP, and Laravel.
+I build scalable, secure, and user-friendly websites & applications that empower businesses and individuals to grow online.
 
-### 👨‍🏫 About Me:
-<p>Passionate and results-driven "Front-end and WordPress Developer" who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind. Over the past years, I created 50+ websites for my clients. I pride myself on doing quality work and maintaining excellent communication. </p>
+🔹 About Me
+🌐 Web Developer with hands-on experience in WordPress, PHP, and Laravel
+⚡ Focused on performance, SEO, and conversion-driven development
+🛒 Skilled in eCommerce, custom themes, plugins, and scalable web apps
+📈 Love building digital solutions that solve real business problems
+🎯 Goal: Turn ideas into powerful, high-performing web solutions
 
-### 👨‍💻My Skills:
-► WordPress Development  <br>
-¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ <br>
-◆ Personal, Niche, Blog, E-commerce, Industrial websites and more <br>
-◆ Elementor Website Creator <br>
-◆ Divi Builder Expert <br>
-◆ Custom WordPress Themes and Plugins <br>
-◆ WordPress Theme Customization <br>
-◆ PSD/Figma to WordPress​ <br>
+🔹 Tech Stack
 
-► Front-end Web Development <br>
-¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ <br>
-◆ HTML5 / CSS3 / Bootstrap <br>
-◆ JavaScript / jQuery/ React Js  <br>
-◆ PSD/Figma to HTML <br>
+Frontend:
+HTML5 | CSS3 | Bootstrap | Tailwind CSS | JavaScript | jQuery
 
-✅Design Tools Basic: Photoshop, Illustrator, and Figma <br>
-### 🙍‍♂️Sports / Game / Activities / Hobby:
-🏏 Cricket, ⚽ Football, 🏸 Badminton  <br>
-🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking  <br>
-✈️ Travelling <br>
+Backend:
+PHP | Laravel | WordPress | WooCommerce
 
-### ☕ Connect with me!
-✅ ► <a href="https://www.linkedin.com/in/growwithashikur/">LinkedIn</a>
+Database & Tools:
+MySQL | phpMyAdmin | Git & GitHub | API Integration
 
-### 📧 For Business Inquiries:
-✅ ► ashikurofficialbd@gmail.com   
+🔹 What I Do
+✅ WordPress Development – Custom themes, plugins, WooCommerce
+✅ Laravel Development – Robust and scalable applications
+✅ PHP Development – Custom functionalities & business logic
+✅ Website Optimization – Speed, security & SEO-friendly
+✅ Website Maintenance – Updates, bug fixing & improvements
+
+🔹 Connect With Me
+► <a href="https://www.linkedin.com/in/growwithashikur/">LinkedIn</a>
+► Email: ashikurofficialbd@gmail.com
+
+⚡Code with logic, design with passion, and build for growth.
 
 
 
