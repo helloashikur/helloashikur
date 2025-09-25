@@ -1,39 +1,38 @@
 [![Rankfly-Digital-Best-Web-Design-SEO-and-Digital-Marketing-Agency-in-Bangladesh-3.png](https://i.postimg.cc/ZqcS5tsq/Rankfly-Digital-Best-Web-Design-SEO-and-Digital-Marketing-Agency-in-Bangladesh-3.png)](https://postimg.cc/1gfTvTQx)
-✨ Ashikur Rahman – Web Developer
-💻 WordPress | PHP | Laravel 
+## ✨ Ashikur Rahman – Web Developer <br>
+💻 WordPress | PHP | Laravel <br>
 🚀 I’m Ashikur Rahman, a passionate Web Developer specializing in WordPress, PHP, and Laravel.
-I build scalable, secure, and user-friendly websites & applications that empower businesses and individuals to grow online.
+I build scalable, secure, and user-friendly websites & applications that empower businesses and individuals to grow online. <br>
 
-🔹 About Me
-🌐 Web Developer with hands-on experience in WordPress, PHP, and Laravel
-⚡ Focused on performance, SEO, and conversion-driven development
-🛒 Skilled in eCommerce, custom themes, plugins, and scalable web apps
-📈 Love building digital solutions that solve real business problems
-🎯 Goal: Turn ideas into powerful, high-performing web solutions
+🔹 About Me <br>
+🌐 Web Developer with hands-on experience in WordPress, PHP, and Laravel <br>
+⚡ Focused on performance, SEO, and conversion-driven development <br>
+🛒 Skilled in eCommerce, custom themes, plugins, and scalable web apps <br>
+📈 Love building digital solutions that solve real business problems <br>
+🎯 Goal: Turn ideas into powerful, high-performing web solutions<br>
 
-🔹 Tech Stack
+🔹 Tech Stack<br>
+Frontend: <br>
+HTML5 | CSS3 | Bootstrap | Tailwind CSS | JavaScript | jQuery <br>
 
-Frontend:
-HTML5 | CSS3 | Bootstrap | Tailwind CSS | JavaScript | jQuery
+Backend: <br>
+PHP | Laravel | WordPress | WooCommerce <br>
 
-Backend:
-PHP | Laravel | WordPress | WooCommerce
+Database & Tools: <br>
+MySQL | phpMyAdmin | Git & GitHub | API Integration <br>
 
-Database & Tools:
-MySQL | phpMyAdmin | Git & GitHub | API Integration
+🔹 What I Do <br>
+✅ WordPress Development – Custom themes, plugins, WooCommerce <br>
+✅ Laravel Development – Robust and scalable applications <br>
+✅ PHP Development – Custom functionalities & business logic <br>
+✅ Website Optimization – Speed, security & SEO-friendly <br>
+✅ Website Maintenance – Updates, bug fixing & improvements <br>
+ 
+🔹 Connect With Me <br>
+► <a href="https://www.linkedin.com/in/growwithashikur/">LinkedIn</a> <br>
+► Email: ashikurofficialbd@gmail.com <br>
 
-🔹 What I Do
-✅ WordPress Development – Custom themes, plugins, WooCommerce
-✅ Laravel Development – Robust and scalable applications
-✅ PHP Development – Custom functionalities & business logic
-✅ Website Optimization – Speed, security & SEO-friendly
-✅ Website Maintenance – Updates, bug fixing & improvements
-
-🔹 Connect With Me
-► <a href="https://www.linkedin.com/in/growwithashikur/">LinkedIn</a>
-► Email: ashikurofficialbd@gmail.com
-
-⚡Code with logic, design with passion, and build for growth.
+⚡Code with logic, design with passion, and build for growth. <br>
 
 
 
